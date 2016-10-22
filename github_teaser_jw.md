@@ -49,6 +49,8 @@ http://github.com/fablabnbg/Dokumente
 
 .
 
+.
+
 
 Sichtbarkeit, Fehlerfreiheit
 ----------------------------
@@ -67,7 +69,7 @@ https://github.com/fablabnbg/Dokumente/issues/15
 
 .
 
-
+.
 
 Beispiel 2: Typische Softwareentwicklung im Linux-Umfeld
 --------------------------------------------------------
@@ -133,6 +135,7 @@ für Windows)
 
 .
 
+.
 
 Es werden hier aus einer Quelle mehrere Programm-Varianten
 gebaut. Für Linux, für Windows und für Mac. Alle nötigen
