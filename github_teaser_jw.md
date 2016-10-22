@@ -172,3 +172,11 @@ Also
 Danke!
 ======
 
+.
+
+.
+
+.
+
+
+(Skript in https://oc.fablab-nuernberg.de/index.php/apps/files/?dir=%2Fjw%2Fworkshop%2Fgithub-linuxtag2016.2 )
