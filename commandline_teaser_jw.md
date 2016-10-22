@@ -38,7 +38,7 @@ Warum mag ich keine graphischen Oberflächen?
  - Keine klare Rückmeldung
    Warte ich, oder wartet der Computer?
 
- - Überladene oberfläche.
+ - Überladene Oberfläche.
    Ich find das Menü nicht mehr...
 
 .
