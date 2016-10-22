@@ -1,6 +1,6 @@
 						
-Zwei Beispiele was Github leistet
-=================================
+Zwei Beispiele, was Github leistet
+==================================
 
 
 
