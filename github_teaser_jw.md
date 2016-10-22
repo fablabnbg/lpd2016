@@ -40,6 +40,7 @@ Zugriffsrechte
  - Als Vereinsvorstand kann ich direkt Text-Änderungen machen.
  - Jeder darf lesen, und 
  - Jeder darf Änderungsvorschläge schicken.
+ - Jeder darf mitdiskutieren.
 
 http://github.com/fablabnbg/Dokumente
  - Satzung.md
